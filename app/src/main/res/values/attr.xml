@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Seal">
+        <attr name="scale_text_size" format="dimension" />
+        <attr name="scale_text_color" format="color" />
+        <attr name="scale_text" format="string" />
+        <attr name="scale_text_padding" format="float" />
+        <attr name="circle_stroke_width" format="dimension" />
+        <attr name="circle_color" format="color" />
+        <attr name="circle_radius" format="dimension" />
+    </declare-styleable>
+
+</resources>
